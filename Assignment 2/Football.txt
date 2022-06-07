@@ -1,0 +1,5 @@
+INFO 06/07/2022 08:42:28 AM Information about game play of Cristiano Ronaldo obtained
+INFO 06/07/2022 08:42:28 AM Individual Salary Multiplier:14279.999999999998
+INFO 06/07/2022 08:42:28 AM Individual Team Multiplier:0.024000000000000007
+INFO 06/07/2022 08:42:28 AM Individual:342720000
+INFO 06/07/2022 08:42:28 AM Details about Cristiano Ronaldo displayed

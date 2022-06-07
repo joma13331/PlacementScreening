@@ -6,5 +6,6 @@
 * The function which implements the solution is named 'search_and_replace' 
 * This function is used to read text from a txt file whose path is passed as an argument and search for a piece of text and replace it with another piece of text.
 * Comments are written which explain the flow of the function.
+* try and except clauses are used to prevent any run time errors to stop the flow of execution of the program.
 * No logging is done as the problem only asks to create a function.
 * Driver code and and a sample .txt file 'example.txt' is also given to execute the function and see the output.
